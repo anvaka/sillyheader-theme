@@ -10,6 +10,7 @@
     "npm",
     "css"
   ],
+  "style": "*.css",
   "author": "Andrei Kashcha",
   "license": "MIT",
   "repository": {
