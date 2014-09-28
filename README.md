@@ -1,6 +1,6 @@
 # sillyheader-theme
 
-Theme for sillyheader
+Please ignore this one in favor of https://github.com/anvaka/looker-on
 
 # install
 
